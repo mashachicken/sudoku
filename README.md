@@ -25,6 +25,7 @@ function checkValidRowInput(userInput[where they clicked]) {
       return false; 
     }
   }
+  
 }
 
 
